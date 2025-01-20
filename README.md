@@ -1,2 +1,2 @@
 # practice
-practice cloning
+practice using the terminal and git hub commands.
